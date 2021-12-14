@@ -13,12 +13,12 @@ import { Header } from "~/components/Header.vue";
 import { Mainjs } from "~/components/Mainjs.vue";
 import { Footerjs } from "~/components/Footerjs.vue";
 export default {
-  // components: {
-  //   Navbarheader,
-  //   Header,
-  //   Mainheader,
-  //   Footerheader,
-  // },
+  components: {
+    Navbarheader,
+    Header,
+    Mainheader,
+    Footerheader,
+  },
 };
 </script>
 
